@@ -1,0 +1,9 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 12px 144px;
+}
+
+.white-smoke-div {
+  background-color: whitesmoke;
+}
